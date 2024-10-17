@@ -2,6 +2,11 @@
 
 #### I'm Jordan and I think I might be a software developer :)
 
-#### I'm developing a game right now! It's called Death is a Blessing, and my goal is for it to be a fun, arcade-y, bullet hell thing. We will see how far I get :)
+#### Open projects:
+    = Death is a Blessing (game concept, paused due to burnout)
+    = zxd (xxd clone in zig, slowly ongoing)
+    = zbg (backgammon engine and api written in zig, paused for now)
 
-#### Working on other little baubles and things in the meantime as well
+#### Recently finished:
+    = conway's game of life (implemented in zig, poorly. will go back sometime soon and refactor)
+    = business card raytracer (the famous one, rewritten in zig. need to go back and properly refactor it though)
