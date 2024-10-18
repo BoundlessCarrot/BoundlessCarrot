@@ -9,4 +9,4 @@
 
 #### Recently finished:
   - conway's game of life (implemented in zig, poorly. will go back sometime soon and refactor)
-  - business card raytracer (the famous one, rewritten in zig. need to go back and properly refactor it though)
+  - [business card raytracer](https://github.com/BoundlessCarrot/simple-raytracer) (the famous one, rewritten in zig. need to go back and properly refactor it though)
