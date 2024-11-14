@@ -5,6 +5,7 @@
 #### Open projects:
   - Death is a Blessing (game concept, paused due to burnout)
   - zxd (xxd clone in zig, slowly ongoing)
+    - Maybe I could even add a hex editor TUI...
   - zbg (backgammon engine and api written in zig, paused for now)
 
 #### Recently finished:
@@ -16,3 +17,4 @@
     - An IRC server in zig though...
   - Waveform visualizer using zig and raylib (Sebastian Langue, you're my hero (à la Ferris Bueller's Day Off))
   - onvim --> my own containerized dev platform on my linode server
+  - TUI or Qt based music tracker
